@@ -145,9 +145,9 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/vishweshhampali
-        - icon: fab fa-x-linkedin
+        - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/vishweshhampali/
-        - icon: fab fa-x-instagram
+        - icon: fab fa-instagram
           url: https://example.com
       customIcons:
         - icon: /fav.png
