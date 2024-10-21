@@ -144,8 +144,10 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
+          url: https://github.com/vishweshhampali
+        - icon: fab fa-x-linkedin
+          url: https://www.linkedin.com/in/vishweshhampali/
+        - icon: fab fa-x-instagram
           url: https://example.com
       customIcons:
         - icon: /fav.png
@@ -188,7 +190,7 @@ params:
           url: "https://www.tayanamobility.com/analytics-bi/"
         content: "As a Data Analyst, I optimized ETL pipelines using Python, Perl, and SQL on live remote servers, ensuring data integrity and improving reporting efficiency. I designed Tableau dashboards and SQL reports for telecom KPIs, automating tracking across business segments. My role involved cross-team collaboration and client communication to integrate diverse data sources effectively. I also led new hire orientations, educating them on our data management architecture and team structure."
 
-      - job: "Team Mamber"
+      - job: "Team Member"
         company: "LEON"
         companyUrl: "https://leon.co/"
         date: "Aug 2024 - Present"
