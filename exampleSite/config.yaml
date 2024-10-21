@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://Vishwesh-Hampali.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Vishwesh Hampali"
 theme: hugo-profile
 
 outputs:
@@ -128,9 +128,9 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    title: "Vishwesh."
+    subtitle: "I build data pipeines, reports, and models for the business."
+    content: "A passionate data specialist. I tend to make use of modern technologies to build robust data pipelines, which automate data transformations, manipulation, analysis and visualisations."
     image: /images/hero.svg
     bottomImage:
       enable: true
