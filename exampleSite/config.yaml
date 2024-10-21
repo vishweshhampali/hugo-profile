@@ -148,7 +148,7 @@ params:
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/vishweshhampali/
         - icon: fab fa-instagram
-          url: https://example.com
+          url: https://www.instagram.com/vishweshhampali/
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
