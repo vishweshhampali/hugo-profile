@@ -157,9 +157,11 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      I am currently pursuing an MSc in Data Science at the University of Bath. Earlier, I worked as a Data Analyst at Tayana Mobility Technologies, where I worked on Data Integration, Data Manipulation and Data Warehousing along with Reporting and Data Visualisation. Prior, I graduated as an Electronics and Telecommunication Engineer in the year 2020 from the Svaitribai Phule Pune University, India.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      Outside of my academic and professional life, I enjoy exploring cities, discovering new restaurants and cafes, and staying active with sports and fitness. With everlasting interest in technology and the arts, recently I find peace in cooking and research.
+
+      Lastly, I am always keen to connect with fellow professionals, data enthusiasts, and anyone passionate about harnessing the power of data. Let's explore the endless possibilities together!
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
