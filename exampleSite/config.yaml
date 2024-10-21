@@ -138,7 +138,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://drive.google.com/file/d/1XzhTShhIcmJmmzFyH2d4FQnAR7VD1cAZ/view?usp=sharing"
       download: true
       newPage: false
     socialLinks:
@@ -166,27 +166,27 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Python"
+        - "SQL"
+        - "Shell"
+        - "Perl"
+        - "Power BI"
+        - "Tableau"
 
   # Experience
   experience:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Data Analyst"
+        company: "Tayana Mobility Technologies"
+        companyUrl: "https://www.tayanamobility.com/"
+        date: "Jan 2021 - Aug 2023"
         featuredLink:
           enable: true
           name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          url: "https://www.tayanamobility.com/analytics-bi/"
+        content: "As a Data Analyst, I optimized ETL pipelines using Python, Perl, and SQL on live remote servers, ensuring data integrity and improving reporting efficiency. I designed Tableau dashboards and SQL reports for telecom KPIs, automating tracking across business segments. My role involved cross-team collaboration and client communication to integrate diverse data sources effectively. I also led new hire orientations, educating them on our data management architecture and team structure."
 
       - job: "Software Developer"
         company: "Amazon"
@@ -198,34 +198,6 @@ params:
         info:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
@@ -244,22 +216,22 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Master of Data Science"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "University of Bath, Bath, UK"
+          url: "https://www.bath.ac.uk/courses/postgraduate-2024/taught-postgraduate-courses/msc-data-science/"
+        date: "2023 - 2024"
+        Overall Grade: "67% (Uptill 2nd Sem)"
         content: |-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit.
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+      - title: "Bachelor of Engineering in Electronics & Telecommunication"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          name: "Savitribai Phule Pune University"
+          url: "http://www.unipune.ac.in/"
+        date: "2016 - 2020"
+        GPA: "7.37 out of 10"
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
