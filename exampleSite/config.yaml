@@ -209,9 +209,9 @@ params:
         date: "2023 - 2024"
         Overall Grade: "67% (Uptill 2nd Sem)"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Relevant Coursework
+            - Statistics, Applied Data Science, Machine Learning, Bayesian Machine Learning.
+            
       - title: "Bachelor of Engineering in Electronics & Telecommunication"
         school:
           name: "Savitribai Phule Pune University"
@@ -219,25 +219,15 @@ params:
         date: "2016 - 2020"
         GPA: "7.37 out of 10"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
+          Relevant Coursework
+            - Object Oriented Programming, Software Programming and Operating Systems, Artificial Intelligence, and Machine Learning.
+        
       - title: "High School"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          name: "Willingdon College of Science"
+          url: "https://willingdoncollege.ac.in/"
+        Overall Grade: "70.46%"
+        
 
   # Achievements
   achievements:
