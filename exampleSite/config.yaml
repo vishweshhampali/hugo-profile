@@ -271,18 +271,18 @@ params:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/hugo-profile
             
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      - title: Weather App Using PowerBI
+        content: This project demonstrates an end-to-end weather data pipeline, built using the Open-Meteo API, Apache Airflow, DuckDB, and Power BI. The pipeline automates weather data extraction, transformation, storage, and export for visualization in Power BI.
         image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Apache Aiflow"
+          - "Duck DB"
+          - "Power BI"
+          - "Python"
+          - "SQL"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/vishweshhampali/WeatherApp
 
       - title: Hugo Profile V2
         content: A clean and simple Hugo template for personal portfolio and blog.
