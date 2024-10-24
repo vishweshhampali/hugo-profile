@@ -207,7 +207,7 @@ params:
           name: "University of Bath, Bath, UK"
           url: "https://www.bath.ac.uk/courses/postgraduate-2024/taught-postgraduate-courses/msc-data-science/"
         date: "2023 - 2024"
-        Overall Grade: "67% (Uptill 2nd Sem)"
+        GPA: "Overall Grade 67% (Uptill 2nd Sem)"
         content: |-
           Relevant Coursework
             - Statistics, Applied Data Science, Machine Learning, Bayesian Machine Learning.
@@ -226,7 +226,7 @@ params:
         school:
           name: "Willingdon College of Science"
           url: "https://willingdoncollege.ac.in/"
-        Overall Grade: "70.46%"
+        GPA: "Overall Grade: 70.46%"
         
 
   # Achievements
