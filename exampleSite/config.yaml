@@ -273,7 +273,7 @@ params:
             
       - title: Weather App Using PowerBI
         content: This project demonstrates an end-to-end weather data pipeline, built using the Open-Meteo API, Apache Airflow, DuckDB, and Power BI. The pipeline automates weather data extraction, transformation, storage, and export for visualization in Power BI.
-        image: /images/projects/converter.jpg
+        image: /images/projects/weather_dashboard.png
         badges:
           - "Apache Aiflow"
           - "Duck DB"
