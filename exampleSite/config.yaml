@@ -258,7 +258,7 @@ params:
     items:
       - title: Extreme Multi-Label Text Classification with DistilBERT Integrated LightXML
         content: Enhanced efficiency maintaining performance for Extreme Multi-Label Text Classification using LightXML integrated with DistilBERT.
-        image: /images/projects/profile.png
+        image: /images/projects/XML.png
         featured:
           name: View on Github
           link: https://github.com/vishweshhampali/DistilBERT-Integrated-LightXML
