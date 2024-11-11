@@ -129,6 +129,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Vishwesh."
+    title: "Learner."
     subtitle: "I build data pipelines, analysis reports, and machine learning models for businesses."
     content: "A passionate data specialist. I use modern technologies to build robust data pipelines, which automate data transformations, manipulation, analysis and visualisations."
     image: /dp1.jpg
