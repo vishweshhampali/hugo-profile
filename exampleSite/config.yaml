@@ -129,8 +129,8 @@ params:
     enable: true
     intro: "Observer.Learner.Tinkerer."
     title: ""
-    subtitle: "I build data pipelines, analysis reports, and machine learning models for businesses."
-    content: "A passionate data specialist. I use modern technologies to build robust data pipelines, which automate data transformations, manipulation, analysis and visualisations."
+    subtitle: "I'm a data enthusiast and a tinkerer."
+    content: "For a brief period, I was pursuing engineering–at the PVGCOET, Pune–doing engineering,, from where I obtained B.E. in Electronics and Telecommunication(2020).""AA"
     image: /dp1.jpg
     bottomImage:
       enable: true
