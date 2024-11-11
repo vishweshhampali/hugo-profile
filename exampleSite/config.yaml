@@ -131,7 +131,7 @@ params:
     title: "Vishwesh."
     subtitle: "I build data pipelines, analysis reports, and machine learning models for businesses."
     content: "A passionate data specialist. I use modern technologies to build robust data pipelines, which automate data transformations, manipulation, analysis and visualisations."
-    image: /images/hero.svg
+    image: /dp1.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
