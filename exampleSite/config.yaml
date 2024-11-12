@@ -130,12 +130,7 @@ params:
     intro: "Observer.Learner.Tinkerer."
     title: ""
     subtitle: "I'm a data enthusiast and a hobbyist developer."
-    content: |- 
-    For a brief period, I pursued engineering at PVGCOET, Pune, where I obtained a B.E. in Electronics and Telecommunication in November 2020. 
-    
-    In January 2021, I joined the Data Analytics Team at Tayana Mobility Technologies in Bangalore as a Data Analyst. This role exposed me to data management and data lakehouse architecture, allowing me to gain essential skills in Python, Perl, Bash, SQL, and Tableau. Those three years were invaluable, providing practical experience in the retail sector and strengthening my leadership and teamwork abilities. 
-    
-    In Fall 2023, I began my MSc in Data Science at the University of Bath, which I completed in September 2024, further enriching my expertise.
+    content: "For a brief period, I pursued engineering at PVGCOET, Pune, where I obtained a B.E. in Electronics and Telecommunication in November 2020. In January 2021, I joined the Data Analytics Team at Tayana Mobility Technologies in Bangalore as a Data Analyst. This role exposed me to data management and data lakehouse architecture, allowing me to gain essential skills in Python, Perl, Bash, SQL, and Tableau. Those three years were invaluable, providing practical experience in the retail sector and strengthening my leadership and teamwork abilities. In Fall 2023, I began my MSc in Data Science at the University of Bath, which I completed in September 2024, further enriching my expertise."
     
     image: /dp1.jpg
     bottomImage:
